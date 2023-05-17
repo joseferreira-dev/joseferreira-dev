@@ -2,7 +2,7 @@
 
 I'm a young Brazilian in love with the world of programming. I am currently a student of the Systems Analysis and Development course at the Federal Institute of Education, Science and Technology of Paraíba.
 
-I am mainly interested in developing systems for the Web. I have used and continue to study several languages, including HTML, CSS and JavaScript. Currently I have been very interested in functional programming for the Web, mainly using the Elixir language.
+I am mainly interested in developing systems for the Web. I have used and continue to study several languages, including HTML, CSS and JavaScript. Currently I have been very interested in functional programming for the Web, mainly using the Elixir programming language.
 
 ## Techs & Tools
 <div align="left">
