@@ -19,5 +19,5 @@ I am mainly interested in developing systems for the Web. I have used and contin
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=joseferreira-dev&theme=transparent&show_icons=true&count_private=true&PAT_1=g9GcJv22vHw7Ambf9T5F5AJi" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseferreira-dev&theme=transparent&show_icons=true&count_private=true&langs_count=8&layout=compact&PAT_1=g9GcJv22vHw7Ambf9T5F5AJi" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseferreira-dev&theme=transparent&show_icons=true&count_private=true&langs_count=7&layout=compact&PAT_1=g9GcJv22vHw7Ambf9T5F5AJi" />
 </a>
