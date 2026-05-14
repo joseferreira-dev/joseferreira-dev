@@ -18,7 +18,7 @@ My main interests are Web Systems Development, Data Analysis and Machine Learnin
 </div>
 <br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=joseferreira-dev&theme=transparent&show_icons=true&count_private=true&PAT_1=g9GcJv22vHw7Ambf9T5F5AJi" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=joseferreira-dev&theme=transparent&show_icons=false&count_private=true&PAT_1=g9GcJv22vHw7Ambf9T5F5AJi" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseferreira-dev&theme=transparent&show_icons=true&count_private=true&langs_count=8&layout=compact&PAT_1=g9GcJv22vHw7Ambf9T5F5AJi" />
